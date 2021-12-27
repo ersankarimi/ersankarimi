@@ -1,10 +1,8 @@
 ## Hi! I'm Ersan 👋
 
-👨🏼‍💻 I am a student of Informatics at the Kalimantan Institute of Technology.
-
-💡 &nbsp;I am new to the programming world and am interested in web development. 
-
-⚡ I like to share the results of my study or small projects of my learning here and on  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/c/HajiKoding"> 
+👨🏼‍💻 I am a student of Informatics at the Kalimantan Institute of Technology.<br>
+💡&nbsp;I am new to the programming world and am interested in web development. <br>
+⚡ I like to share the results of my study or small projects of my learning here and on <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/c/HajiKoding"> 
 ![YouTube](https://img.shields.io/badge/Haji&nbsp;Koding-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
  ### Language and Tools:
