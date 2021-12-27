@@ -16,8 +16,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp; 
+![webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 
  ### Learning:
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;![mysql](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;![mysql](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ersankarimi&theme=default&show_icons=true)
