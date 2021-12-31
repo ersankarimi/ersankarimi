@@ -19,5 +19,6 @@
  ### Learning:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;![mysql](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ersankarimi&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)&nbsp;<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ersankarimi&theme=default&show_icons=true) <br>
 <a href="https://app.daily.dev/ersankarimi"><img src="https://api.daily.dev/devcards/750dc98bf94340b482ccc661b99b090e.png?r=gg8" width="300" alt="Ersan Karimi's Dev Card"/></a>
