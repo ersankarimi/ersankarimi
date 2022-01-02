@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ersankarimi&theme=material-palenight&show_icons=true) <br>
-<a href="https://app.daily.dev/ersankarimi"><img src="https://api.daily.dev/devcards/750dc98bf94340b482ccc661b99b090e.png?r=74l" width="350" alt="Ersan Karimi's Dev Card"/></a>
+<a href="https://app.daily.dev/ersankarimi"><img src="https://api.daily.dev/devcards/750dc98bf94340b482ccc661b99b090e.png?r=nph" width="350" alt="Ersan Karimi's Dev Card"/></a>
