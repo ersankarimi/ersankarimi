@@ -1,4 +1,4 @@
-## Hi! I'm Ersan 👋
+# Hi! I'm Ersan Karimi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 👨🏼‍💻 I am a student of Informatics at the Kalimantan Institute of Technology.<br>
 - 💡&nbsp;I am new to the programming world and am interested in web development. <br>
@@ -10,15 +10,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=CF649A)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp; 
 ![webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 
  ### Learning:
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;![mysql](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;![mysql](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ersankarimi&theme=material-palenight&show_icons=true) <br>
-<a href="https://app.daily.dev/ersankarimi"><img src="https://api.daily.dev/devcards/750dc98bf94340b482ccc661b99b090e.png?r=nph" width="350" alt="Ersan Karimi's Dev Card"/></a>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&theme=material-palenight" alt="Top Langs" display="block" width="400px" height="200px">
+    &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=ersankarimi&theme=material-palenight&show_icons=true" alt="Anurag's GitHub stats" >
+</p>
