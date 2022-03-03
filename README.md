@@ -17,7 +17,11 @@
 ![webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 
  ### Learning:
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;![mysql](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Router](https://img.shields.io/badge/-React&nbsp;Router-05122A?style=flat&logo=reactrouter)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind&nbsp;CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&theme=material-palenight" alt="Top Langs" display="block" width="400px" height="200px">
