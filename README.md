@@ -30,6 +30,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&theme=material-palenight" alt="Top Langs" display="block" width="401px" height="200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&theme=material-palenight" alt="Top Langs" display="block" width="400px" height="200px">
     &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=ersankarimi&theme=material-palenight&show_icons=true" alt="Anurag's GitHub stats" >
 </p>
