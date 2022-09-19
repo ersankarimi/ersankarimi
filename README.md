@@ -1,5 +1,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-<div style="text-align:center;border-bottom:2px solid rgb(55,62,71);margin-bottom:2rem;">
+<div style="text-align:center;border-bottom:2px solid rgb(55,62,71);margin-bottom:2rem;margin:0 auto;">
     <h1 style="border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;">Hi! I'm Ersan Karimi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   <div style="display:flex; justify-content:center;align-items:center;gap:0.3rem;margin-bottom:0.8rem;">
   <a href="mailto:ersankarimii311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge Logo"></a>
