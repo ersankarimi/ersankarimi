@@ -7,15 +7,14 @@
   <a href="https://youtube.com/c/hajikoding"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge Logo"></a>
   <a href="https://www.instagram.com/ersankarimi/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge Logo"></a>
   </div>
-</div>
-
+</div><br><br>
 <ul style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1px;margin-top:2.25rem;">
     <li>🎓 Informatics Student at Institut Teknologi Kalimantan</li>
     <li>👨🏼‍💻 I am a Front-End Web Developer Enthusiast</li>
     <li>😁 I sometimes share my study results on my youtube channel. I know I'm no
     expert, but I just wanted to share what I've learned to hone other skills
     like public speaking, presentations, and more.</li>
-</ul><br><br>
+</ul><br>
 
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Technologies :</h2>
 
