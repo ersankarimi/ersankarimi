@@ -22,6 +22,7 @@
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -36,11 +37,13 @@
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Currently Learning :</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)<br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&card_width=445px&theme=material-palenight)](https://github.com/ersankarimi/github-readme-stats)
-![Ersan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ersankarimi&show_icons=true&theme=material-palenight)
+
+<div style="display: flex; width: 100%; flex-wrap:wrap; gap:1rem; align-items:center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&card_width=445px&theme=material-palenight" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=ersankarimi&show_icons=true&theme=material-palenight" alt="Ersan's GitHub stats">
+</div>
