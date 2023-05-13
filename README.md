@@ -10,7 +10,7 @@
 </div><br><br>
 <ul style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1px;margin-top:2.25rem;">
     <li>🎓 Informatics Student at Institut Teknologi Kalimantan.</li>
-    <li>👨🏼‍💻 I am a Front-End Web Developer Enthusiast.</li>
+    <li>👨🏼‍💻 I am a Front-End Web Developer.</li>
     <li>😁 I sometimes share my study results on my youtube channel. I know I'm no
     expert, but I just wanted to share what I've learned to hone other skills
     like public speaking, presentations, and more.</li>
