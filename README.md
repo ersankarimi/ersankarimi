@@ -52,3 +52,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&card_width=445px&theme=material-palenight" alt="Top Langs">
     <img src="https://github-readme-stats.vercel.app/api?username=ersankarimi&show_icons=true&theme=material-palenight" alt="Ersan's GitHub stats">
 </div>
+<picture style="margin-top:16px;">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
