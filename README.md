@@ -7,6 +7,12 @@
   <a href="https://youtube.com/c/hajikoding"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge Logo"></a>
   <a href="https://www.instagram.com/ersankarimi/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge Logo"></a>
   </div>
+  <picture style="margin-top:16px;">
+    <!-- Generated with the awesome [Platane/snk](https://github.com/Platane/snk) -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ersankarimi/ersankarimi/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ersankarimi/ersankarimi/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ersankarimi/ersankarimi/output/github-contribution-grid-snake.svg">
+</picture>
 </div><br><br>
 <ul style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1px;margin-top:2.25rem;">
     <li>🎓 Informatics Student at Institut Teknologi Kalimantan.</li>
@@ -52,8 +58,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&card_width=445px&theme=material-palenight" alt="Top Langs">
     <img src="https://github-readme-stats.vercel.app/api?username=ersankarimi&show_icons=true&theme=material-palenight" alt="Ersan's GitHub stats">
 </div>
-<picture style="margin-top:16px;">
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
