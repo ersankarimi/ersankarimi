@@ -58,3 +58,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&card_width=445px&theme=material-palenight" alt="Top Langs">
     <img src="https://github-readme-stats.vercel.app/api?username=ersankarimi&show_icons=true&theme=material-palenight" alt="Ersan's GitHub stats">
 </div>
+
+![Metrics](/github-metrics.svg)
