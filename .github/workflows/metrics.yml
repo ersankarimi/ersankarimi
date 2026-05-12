@@ -69,7 +69,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Topics
+          # Starred topics
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
@@ -80,12 +80,9 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_other: yes
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_categories: markup, programming
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_analysis_timeout: 20
           plugin_languages_analysis_timeout_repositories: 7.5
 
@@ -106,6 +103,6 @@ jobs:
           # Repository traffic
           plugin_traffic: yes
 
-          # Disabled because these are either noisy or more error-prone
+          # Disabled because these are noisy / error-prone for now
           plugin_habits: no
           plugin_projects: no
