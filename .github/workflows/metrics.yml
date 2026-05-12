@@ -1,70 +1,95 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
+
 on:
-  # Schedule updates (each Sunday at midnight)
   schedule:
+    # Every Sunday at 00:00 UTC
     - cron: "0 0 * * 0"
-  # Lines below let you run workflow manually and on each commit
+
   workflow_dispatch:
-  push: { branches: ["main"] }
+
+  push:
+    branches: ["main"]
+    paths:
+      - "README.md"
+      - ".github/workflows/metrics.yml"
+
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment:
-      name: production
+    timeout-minutes: 30
+
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # Options
           user: ersankarimi
+          filename: github-metrics.svg
+
+          # Base
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
+
+          # Output
+          output_action: commit
+          committer_message: "chore: update github metrics [Skip GitHub Action]"
+
+          # General config
           config_octicon: yes
           config_padding: 0, 8 + 12%
           config_timezone: Asia/Makassar
           config_twemoji: yes
-          plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: public
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+
+          # Reliability
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+
+          # Repositories
+          repositories_forks: yes
+          repositories_batch: 50
+
+          # Introduction
           plugin_introduction: yes
           plugin_introduction_title: yes
+
+          # Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+          # Topics
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: starred
+
+          # Languages
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_other: yes
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+
+          # Lines of code
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+
+          # Disabled to avoid broken/error-prone sections
+          plugin_habits: no
+          plugin_code: no
+          plugin_traffic: no
           plugin_projects: no
-          plugin_projects_limit: 4
-          plugin_traffic: yes
-          repositories_forks: yes
